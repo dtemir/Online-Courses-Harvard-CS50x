@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Portfolio
+{% endblock %}
+
+{% block main %}
+   <table class="table table-striped">
+       <thead>
+           <tr>
+           <th>Symbol</th>
+           <th>Name</th>
+           <th>Shares</th>
+           <th>Price</th>
+           <th>TOTAL</th>
+           </tr>
+       </thead>
+       <tbody>
+           {% for row in user_info %}
+
+        <tr>
+            <td>{{ row['symbol'] }}</td>
+            <td>{{ row['name'] }}</td>
+            <td>{{ row['shares'] }}</td>
+            <td>{{ current_share_prices[row['symbol']] }}</td>
+            <td>{{ current_share_prices_multiplied[row['symbol']] }}</td>
+        </tr>
+
+        {% endfor %}
+        <tr>
+            <td>CASH</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>{{ funds_left }}</td>
+        </tr>
+       </tbody>
+       <tfoot>
+           <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>{{ total_funds }}</th>
+        </tr>
+       </tfoot>
+   </table>
+
+   </ul>
+{% endblock %}
