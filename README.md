@@ -1,4 +1,5 @@
 # Online-Courses-Harvard-CS50x
+<<<<<<< HEAD
 The repository was created by me to document my 
 progression throughout Harvard's introductory course
 to Computer Science. 
@@ -54,3 +55,6 @@ Below is the table of contents for easy navigation:
 * Problem Set 8: Web
   * [homepage](https://github.com/dtemir/Online-Courses-Harvard-CS50x/tree/master/Problem%20Set%20%238/homepage)
   * [finance](https://github.com/dtemir/Online-Courses-Harvard-CS50x/tree/master/Problem%20Set%20%238/finance)
+=======
+<span style="color:red;">love</span> python
+>>>>>>> b13644c209b673d9183e4275f268895b2a188bcf
