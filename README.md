@@ -1,9 +1,7 @@
 # Online-Courses-Harvard-CS50x
-<<<<<<< HEAD
-<<<<<<< HEAD
-The repository was created by me to document my 
-progression throughout Harvard's introductory course
-to Computer Science. 
+I created this repository to document my 
+progression throughout Harvard's Introductory Course
+to Computer Science. (Preview: That's an awesome class)
 
 It has been a treat to go through
 all of the problem sets and to learn things that 
@@ -18,13 +16,14 @@ The great things I got from this class:
    * Realized that I absolutely love Python
      * It raises productivity as you can 
      focus on deploying your ideas rather than 
-     working on the low-level tasks as deallocating memory
+     working on the low-level tasks, such as deallocating memory
      * Extensive library of Modules and APIs that are available
-     at an instant
-     * Perfectly works with awesome frameworks as 
+     instantly
+     * Perfectly works with awesome frameworks, such as 
      Django, Flask (for web), and Tensorflow, Pandas (for data science)
     
-Below is the table of contents for easy navigation:
+Below is the table of contents for easy navigation through
+my solutions to the exercises:
 
 * Problem Set 1: C
   * [hello](https://github.com/dtemir/Online-Courses-Harvard-CS50x/blob/master/Problem%20Set%20%231/hello.c)
