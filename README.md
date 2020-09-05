@@ -12,7 +12,7 @@ The great things I got from this class:
    * Learned the basics of a low-level language, such as C
      * Pointers
      * Memory allocations
-     * Hash tables (and much more)
+     * Implementation of Data Structures
    * Realized that I absolutely love Python
      * It raises productivity as you can 
      focus on deploying your ideas rather than 
