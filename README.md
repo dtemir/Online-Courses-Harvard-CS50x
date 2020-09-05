@@ -55,4 +55,7 @@ my solutions to the exercises:
 * Problem Set 8: Web
   * [homepage](https://github.com/dtemir/Online-Courses-Harvard-CS50x/tree/master/Problem%20Set%20%238/homepage)
   * [finance](https://github.com/dtemir/Online-Courses-Harvard-CS50x/tree/master/Problem%20Set%20%238/finance)
-
+* Final Project: Django-based Blogging Application
+    * [repository](https://github.com/dtemir/Web-Development)
+    * [certificate](https://certificates.cs50.io/63076e40-aa1f-4502-827e-4f6b8351e2fd.pdf?size=letter)
+      ![certificate](https://certificates.cs50.io/63076e40-aa1f-4502-827e-4f6b8351e2fd.png?size=letter)
