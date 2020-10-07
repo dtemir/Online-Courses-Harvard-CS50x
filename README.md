@@ -20,7 +20,7 @@ The great things I got from this class:
      * Extensive library of Modules and APIs that are available
      instantly
      * Perfectly works with awesome frameworks, such as 
-     Django, Flask (for web), and Tensorflow, Pandas (for data science)
+     Django, Pandas, Tensorflow.
     
 Below is the table of contents for easy navigation through
 my solutions to the exercises:
