@@ -1,7 +1,7 @@
 # Online-Courses-Harvard-CS50x
 I created this repository to document my 
-progression throughout Harvard's Introductory Course
-to Computer Science. (Preview: That's an awesome class)
+progression throughout [Harvard's Introductory Course
+to Computer Science](https://cs50.harvard.edu/x/2020/). (Preview: That's an awesome class)
 
 It has been a treat to go through
 all of the problem sets and to learn things that 
